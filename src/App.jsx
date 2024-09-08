@@ -5,7 +5,7 @@ import Home from './components/Home'; // Import the Home component
 import View from './components/View'; // Import the View component
 import RatingTable from './components/RatingTable'; // Import the RatingTable component
 import Header from './components/Header'; // Fixed casing for Header component import
-import NavbarDisplay from './components/NavbarDisplay'; // Fixed casing for NavbarDisplay component import
+import NavbarDisplay from './components/Navbardisplay'; // Fixed casing for NavbarDisplay component import
 import QuestionsManager from './components/QuestionsManager'; // Import the QuestionsManager component
 import Bgcolor from './components/Bgcolor';
 import Background from './components/Background';
