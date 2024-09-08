@@ -1,0 +1,14 @@
+.rating-option {
+  font-size: 2rem;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.rating-option:hover {
+  transform: scale(1.2);
+}
+
+.rating-label {
+  font-size: 1.2rem;
+  margin-left: 10px;
+}
